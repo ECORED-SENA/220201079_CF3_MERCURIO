@@ -1,0 +1,102 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "mercurio",
+    "title": "1. Mercurio en los seres humanos",
+    "breadcrumb": ["Inicio","mercurio"],
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "mercurio",
+        "title": "Interacción del mercurio en el cuerpo humano y vulnerabilidad de las mujeres",
+        "anchor": "interaccion"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "mercurio",
+        "title": "Diagnóstico, tratamiento y recomendaciones",
+        "anchor": "diagnostico"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "gestion",
+    "title": "2. Gestión de productos con mercurio añadido",
+    "breadcrumb": ["Inicio","gestion"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "gestion",
+        "title": "Usos de productos con mercurio añadido y manejo de pequeños derrames de mercurio",
+        "anchor": "usos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "gestion",
+        "title": "Concepto y programas de posconsumo en Colombia",
+        "anchor": "concepto"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "procesos",
+    "title": "3. Procesos de minería",
+    "breadcrumb": ["Inicio","procesos"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "procesos",
+        "title": "Introducción a la minería de oro y su importancia en Colombia",
+        "anchor": "introduccion"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "procesos",
+        "title": "Casos sobre el estado actual de la minería de oro artesanal en Colombia",
+        "anchor": "casos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "procesos",
+        "title": "Impactos ambientales en la minería de oro",
+        "anchor": "impactos"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "licenciamiento",
+    "title": "4. Licenciamiento minero",
+    "breadcrumb": ["Inicio","licenciamiento"],
+    "path": "pages/4-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "licenciamiento",
+        "title": "Escenarios y procesos de formalización minera en Colombia",
+        "anchor": "escenarios"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "licenciamiento",
+        "title": "Autoridades ambientales competentes en el licenciamiento ambiental y la formalización minera de oro",
+        "anchor": "autoridades"
+      }
+    ]
+  }
+]
