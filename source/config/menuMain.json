@@ -16,13 +16,13 @@
       {
         "icon": "fa fa-file-text",
         "slug": "mercurio",
-        "title": "Interacción del mercurio en el cuerpo humano y vulnerabilidad de las mujeres",
+        "title": "1.1 Interacción del mercurio en el cuerpo humano y vulnerabilidad de las mujeres",
         "anchor": "interaccion"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "mercurio",
-        "title": "Diagnóstico, tratamiento y recomendaciones",
+        "title": "1.2 Diagnóstico, tratamiento y recomendaciones",
         "anchor": "diagnostico"
       }
     ]
@@ -38,13 +38,13 @@
       {
         "icon": "fa fa-file-text",
         "slug": "gestion",
-        "title": "Usos de productos con mercurio añadido y manejo de pequeños derrames de mercurio",
+        "title": "2.1 Usos de productos con mercurio añadido y manejo de pequeños derrames de mercurio",
         "anchor": "usos"
       },
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "gestion",
-        "title": "Concepto y programas de posconsumo en Colombia",
+        "title": "2.2 Concepto y programas de posconsumo en Colombia",
         "anchor": "concepto"
       }
     ]
@@ -58,21 +58,21 @@
     "path": "pages/3-tema.html",
     "submenu": [
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "procesos",
-        "title": "Introducción a la minería de oro y su importancia en Colombia",
+        "title": "3.1 Introducción a la minería de oro y su importancia en Colombia",
         "anchor": "introduccion"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "procesos",
-        "title": "Casos sobre el estado actual de la minería de oro artesanal en Colombia",
+        "title": "3.2 Casos sobre el estado actual de la minería de oro artesanal en Colombia",
         "anchor": "casos"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "procesos",
-        "title": "Impactos ambientales en la minería de oro",
+        "title": "3.3 Impactos ambientales en la minería de oro",
         "anchor": "impactos"
       }
     ]
@@ -86,15 +86,15 @@
     "path": "pages/4-tema.html",
     "submenu": [
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "licenciamiento",
-        "title": "Escenarios y procesos de formalización minera en Colombia",
+        "title": "4.1 Escenarios y procesos de formalización minera en Colombia",
         "anchor": "escenarios"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "licenciamiento",
-        "title": "Autoridades ambientales competentes en el licenciamiento ambiental y la formalización minera de oro",
+        "title": "4.2 Autoridades ambientales competentes en el licenciamiento ambiental y la formalización minera de oro",
         "anchor": "autoridades"
       }
     ]
