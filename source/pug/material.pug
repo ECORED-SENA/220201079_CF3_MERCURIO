@@ -36,12 +36,15 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
+                                    +navTemaItem('text', 'Introducción', 'main.html#page/introduccion/')                            
                                     +navTemaItem('1', 'Mercurio en los seres humanos', 'main.html#page/#tema-1/')
                                     +navTemaItem('2', 'Gestión de productos con mercurio añadido', 'main.html#page/#tema-2/')
                                     +navTemaItem('3', 'Procesos de minería', 'main.html#page/#tema-3/')
                                     +navTemaItem('4', 'Licenciamiento minero', 'main.html#page/#tema-4/')
 
         section#mainContent
+            #introduccion
+                include pages/intro.pug        
             #tema-1
                 include pages/1-tema.pug
             #tema-2
